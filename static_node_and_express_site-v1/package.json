@@ -1,0 +1,23 @@
+{
+  "name": "tech-degree-project-6",
+  "version": "0.0.1",
+  "description": "my 6th tech degree project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/begana/tech-degree-project6.git"
+  },
+  "author": "begana choi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/begana/tech-degree-project6/issues"
+  },
+  "homepage": "https://github.com/begana/tech-degree-project6#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
