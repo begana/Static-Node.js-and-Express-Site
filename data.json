@@ -1,0 +1,76 @@
+{
+    "projects":[
+       {
+          "id":0,
+          "project_name": "A Random Quote Generator",
+          "description": "an app that displays random famous quotes each time a button is clicked",
+          "technologies":["HTML", "CSS", "JavaScript"],
+          "live_link": "https://begana.github.io/tech-degree-project-1/",
+          "github_link": "https://github.com/begana/tech-degree-project-1",
+          "landing_img": "/static/images/project_1.jpg",
+          "img_urls":[
+                        "/static/images/project_1-1.jpg",
+                        "/static/images/project_1-2.jpg",
+                        "/static/images/project_1-3.jpg"
+                     ]
+       },
+       {
+          "id":1,
+          "project_name":"List Pagination and Filterling",
+          "description":"displaying a long list of items on a web page that display handful of items on the page and provide navigation to jump to a list of more items.",
+          "technologies":["HTML", "CSS", "JavaScript"],
+          "live_link":"https://begana.github.io/tech-degree-projcet-2/",
+          "github_link":"https://github.com/begana/tech-degree-projcet-2",
+          "landing_img": "/static/images/project_2.jpg",
+          "img_urls":[
+            "/static/images/project_2-1.jpg",
+            "/static/images/project_2-2.jpg",
+            "/static/images/project_2-3.jpg"
+         ]
+       },
+       {
+          "id":2,
+          "project_name":"Interactive Form",
+          "description":"a form to collect information from users and validating user input and providing helpful error messages when user enters invalid information into the form fields.",
+          "technologies":["HTML", "CSS", "JavaScript"],
+          "live_link": "https://begana.github.io/tech-degree-project-3/",
+          "github_link":"https://github.com/begana/tech-degree-project-3",
+          "landing_img": "/static/images/project_3.jpg",
+          "img_urls":[
+            "/static/images/project_3-1.jpg",
+            "/static/images/project_3-2.jpg",
+            "/static/images/project_3-3.jpg"
+         ]
+       },
+       {
+          "id":3,
+          "project_name":"OOP Game Show App",
+          "description":" a word guessing game: Phrase Hunter. a player tries to guess the phrase by selecting individual letters from an onscreen keyboard. a player continues to select letters until they guess the phrase and win, or make five incorrect guesses and lost.",
+          "technologies":["HTML", "CSS", "JavaScript"],
+          "live_link":"https://begana.github.io/tech-degree-project-4/",
+          "github_link":"https://github.com/begana/tech-degree-project-4",
+          "landing_img": "/static/images/project_4.jpg",
+          "img_urls":[
+            "/static/images/project_4-1.jpg",
+            "/static/images/project_4-2.jpg",
+            "/static/images/project_4-3.jpg",
+            "/static/images/project_4-4.jpg",
+            "/static/images/project_4-5.jpg"
+         ]
+       },
+       {
+          "id":4,
+          "project_name":"Public API Requests",
+          "description":"an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. they can share information with each other.",
+          "technologies":["HTML", "CSS", "JavaScript"],
+          "live_link":"https://begana.github.io/tech-degree-project-5/",
+          "github_link":"https://github.com/begana/tech-degree-project-5",
+          "landing_img": "/static/images/project_5.jpg",
+          "img_urls":[
+            "/static/images/project_5-1.jpg",
+            "/static/images/project_5-2.jpg",
+            "/static/images/project_5-3.jpg"
+         ]
+       }
+    ]
+ }
