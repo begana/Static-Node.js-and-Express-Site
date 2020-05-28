@@ -15,10 +15,6 @@ router.get('/:id', ( req,res ) => {
     templateData.live_demo = text.live_link;
     templateData.github_link = text.github_link;
     templateData.images = text.img_urls;
-    
-   
-    
-
 
     res.render('project', templateData );
 });
